@@ -1,3 +1,3 @@
 <?php 
-echo "IPL fantasy league landing page";
+echo "IPL fantasy league landing page modified";
 ?>
